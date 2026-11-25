@@ -1,0 +1,65 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Compiled / packaged artifacts
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Logs
+*.log
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# IDE - Eclipse / STS
+.classpath
+.project
+.settings/
+.apt_generated/
+.factorypath
+.springBeans
+bin/
+
+# IDE - NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+nbactions.xml
+
+# IDE - VS Code
+.vscode/
+
+# Bob
+.bob/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java crash / heap dumps
+hs_err_pid*
+replay_pid*
+*.hprof
+
+# Local env / secrets
+.env
+*.local
+
+# Local database
+legacybank.db
